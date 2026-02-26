@@ -6,8 +6,6 @@ Aplicação web desenvolvida com React + Vite para consulta de informações de 
 
 ## 📷 Preview
 
-## 📷 Preview
-
 Imagem do projeto será adicionada em breve.
 
 ---
